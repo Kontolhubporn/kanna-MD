@@ -11,21 +11,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner Zifabotz tidak menerima save contact
-• Owner Zifabotz berhak blockir tanpa alasan
+• Owner ✙-YunnaBotzAFSG-✙ tidak menerima save contact
+• Owner ✙-YunnaBotzAFSG-✙ berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Zifabotz Hanya merespon yang berkaitan dengan BOT
-• No Telp owner Zifabotz`
+• Owner ✙-YunnaBotzAFSG-✙ Hanya merespon yang berkaitan dengan BOT
+• No Telp owner ✙-YunnaBotzAFSG-✙`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/e8f6c7288a8d34157d54e.jpg'
+let ppown = 'https://www.instagram.com/kadesgv'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* : Rozi
-❑ *Umur* : 15 Tahun
-❑ *Kelas* : 1 Sma
+❑ *Nama* : Agus
+❑ *Umur* : 13 Tahun
+❑ *Kelas* : 9 Smp
 
-❑ *Ulang Tahun* : 4 juli 2007
-❑ *Alamat* : Indonesia, Kalimantan barat, Pontianak
+❑ *Ulang Tahun* : 6 agustus 2008
+❑ *Alamat* : Indonesia,Bali, Negara
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
